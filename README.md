@@ -1,4 +1,4 @@
-# Real-Time-Endpoint-Security-Anomaly-Detection-System-with-SOC-Dashboard
+# 🚀Real-Time-Endpoint-Security-Anomaly-Detection-System-with-SOC-Dashboard
 A Cybersecurity monitoring system designed to detect abnormal endpoint behavior in real time using Machine Learning and visualize security events through an interactive SOC Dashboard.
 
 This project focuses on proactive threat detection by identifying anomalies instead of relying only on traditional signature-based security methods. It helps security analysts monitor suspicious activities, detect potential attacks, and analyze endpoint telemetry efficiently.
